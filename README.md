@@ -20,9 +20,11 @@ Hereby I describe  a  system  (pin_cod_) built for SemEval 2020 Task 12: OffensE
 * followed by two fully connected dense layers.  
 
 ## Added files:
-* #### pin_cod_preprocessing.py: This includes all preprocessing steps and features to be used for both training and test sets provided by the organizers of SemEval 2020.
+* #### pin_cod_preprocessing.py: 
+This includes all preprocessing steps and features to be used for both training and test sets provided by the organizers of SemEval 2020.
 
-* #### pin_cod_model.py: This script is created to build the model (Bidirectional Long Short-Term Memory Networks) automatically predicting offensive language for the provided Turkish tweets.
+* #### pin_cod_model.py: 
+This script is created to build the model (Bidirectional Long Short-Term Memory Networks) automatically predicting offensive language for the provided Turkish tweets.
 
 ## Datasets and Resources:
 * Training and Test sets were provided by the organizer (Çöltekin,  2020). 
