@@ -188,8 +188,7 @@ model.compile(loss="binary_crossentropy", optimizer="adam", metrics=["accuracy"]
 
 callbacks = [
         EarlyStopping(monitor='val_accuracy', patience=5, verbose=0),
-        #ModelCheckpoint('the_saved_model_is_here.h5',
-        ModelCheckpoint('check_and_remove.h5',
+        ModelCheckpoint('the_saved_model_is_here.h5',
                         monitor='val_accuracy', save_best_only=True, verbose=0)
         ]
 
