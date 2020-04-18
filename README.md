@@ -1,6 +1,6 @@
 # Offensive Language Identification for Turkish Language
 [System Description]
-Hereby I describe  a  system  (pin_cod_) built for SemEval 2020 Task 12: OffensEval: Multilingual Offensive Language Identification in So-cial Media (Zampieri et al., 2020). The pin_cod_ system is one of participants of OffensEval 2020 Sub-task A: Offensive language  identification for Turkish language (Çöltekin,  2020). 
+Hereby I describe  a  system  (pin_cod_) built for SemEval 2020 Task 12: OffensEval: Multilingual Offensive Language Identification in Social Media (Zampieri et al., 2020). The pin_cod_ system is one of participants of OffensEval 2020 Sub-task A: Offensive language  identification for Turkish language (Çöltekin,  2020). 
 
 ## Goal:
 * Build a model to predict offensive language for each Turkish tweet provided by the organizers of SemEval 2020.
